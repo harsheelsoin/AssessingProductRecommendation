@@ -1,4 +1,4 @@
-# AssessingProductRecommendation
+# Assessing Product Recommendation
 
 The dataset consists of Women’s fashion online shop reviews, consisting of a title, a review text, and whether the review author would recommend the product. The goal is to determine whether a reviewer will recommend a product or not based on review title and review. Such a classifier can help find out what is good or bad about certain products or to highlight more relevant reviews (like a very critical and a very positive one) about certain products.
 
